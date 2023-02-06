@@ -1,2 +1,2 @@
-# PhatTrienUD_Web2
+# Phát Triển Ứng Dụng Web2
 GVHD: Mai Cường Thọ
