@@ -1,0 +1,8 @@
+127.0.0.1 - - [13/Feb/2023:07:14:35 +0700] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [13/Feb/2023:07:15:45 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [13/Feb/2023:07:15:46 +0700] "GET /ViduHelloWorld_Servlet/HelloWorld HTTP/1.1" 200 28
+0:0:0:0:0:0:0:1 - - [13/Feb/2023:07:15:46 +0700] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [13/Feb/2023:07:16:20 +0700] "GET /ViduHelloWorld_Servlet/HelloWorld HTTP/1.1" 200 28
+0:0:0:0:0:0:0:1 - - [13/Feb/2023:07:56:52 +0700] "GET /ViduHelloWorld_Servlet/ HTTP/1.1" 404 778
+0:0:0:0:0:0:0:1 - - [13/Feb/2023:07:57:06 +0700] "GET /ViduHelloWorld_Servlet/HelloWorld HTTP/1.1" 200 28
+0:0:0:0:0:0:0:1 - - [13/Feb/2023:08:37:25 +0700] "GET /ViduHelloWorld_Servlet/HelloWorld HTTP/1.1" 200 28
