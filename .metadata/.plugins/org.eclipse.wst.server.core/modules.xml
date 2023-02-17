@@ -2,7 +2,9 @@
 <modules>
   <module moduleId="org.eclipse.jst.jee.server:ViduHelloWorld_Servlet" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:BaiThucHanh1_1" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:BaiThucHanh1_3" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:BaiThucHanh1_2" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:AboutMe" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:Bai1_doGet" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:BaiThucHanh1_4" serverId="Tomcat v9.0 Server at localhost"/>
 </modules>

@@ -30,8 +30,8 @@ public class doGet extends HttpServlet {
 
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-//		response.setContentType("text/html");
-//		response.setCharacterEncoding("UTF-8");
+		response.setContentType("text/html");
+		response.setCharacterEncoding("UTF-8");
 		String value1 = request.getParameter("param1");
 		String value2 = request.getParameter("param2");
 		PrintWriter traVe = response.getWriter(); 
